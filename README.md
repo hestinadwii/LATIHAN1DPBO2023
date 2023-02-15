@@ -20,33 +20,33 @@ User hanya perlu menginput angka yang mempresentasikan masing-masing Menu.
 
 ## FEATURES
 #### Create / Insert
-Input data yang kemudian akan disimpan di list.
+Masukan angka 2 untuk input data yang kemudian akan disimpan di list. 
 ![Screenshot (52)](https://user-images.githubusercontent.com/100210178/219075823-223a2ab5-9b96-4ee4-9bf4-cc86be6f2979.png)
 
 
 #### Read / Display
-Menampilkan data yang ada pada list. Jika data belum ada, maka akan menampilkan pesan Warning.
+Masukan angka 1 untuk menampilkan data yang ada pada list. Jika data belum ada, maka akan menampilkan pesan Warning.
 ![Screenshot (51)](https://user-images.githubusercontent.com/100210178/219075906-e76a09fc-adda-49cf-9878-7063a55040b4.png)
 ![Screenshot (53)](https://user-images.githubusercontent.com/100210178/219075985-bd9c4ad8-2352-4217-83f4-f5ccf8f0fec6.png)
 
 
 #### Update
-Ubah data yang sudah terinput sebelumnya dengan memasukkan Primary Key.
+Masukan angka 5 untuk mengubah data. Kemudian masukan Primary Key.
 Jika Primary Key yang dimasukan belum ada di list, maka akan menampilkan pesan warning.
 ![Screenshot (56)](https://user-images.githubusercontent.com/100210178/219076221-6e69ca75-9ad8-440b-9593-aea6a5158d68.png)
 ![Screenshot (57)](https://user-images.githubusercontent.com/100210178/219076168-5493096a-40e8-47e2-a6d9-d946b5ade498.png)
 
 
 #### Delete
-Hapus data dari list dengan memasukkan Primary Key.
+Masukan angka 4 untuk menghapus data dari list. Kemudian masukan Primary Key.
 Jika Primary Key yang dimasukan belum ada di list, maka akan menampilkan pesan warning.
 ![Screenshot (55)](https://user-images.githubusercontent.com/100210178/219076355-c2bd1762-76c4-40d7-a423-e32169c11dd6.png)
 
 
 #### Search
-Fitur untuk mencari data di program. Caranya dengan memasukan Primary Key.
+Masukan angka 3 untuk mencari data di program. Kemudian masukan Primary Key.
 ![Screenshot (54)](https://user-images.githubusercontent.com/100210178/219076428-250e6a3c-f2f6-4dbc-9055-1f9f2cdc0b21.png)
 
 #### Exit
-Keluar dari program.
+Masukan angka 0 untuk keluar dari program.
 ![Screenshot (58)](https://user-images.githubusercontent.com/100210178/219076530-fe1f23de-e855-40e2-9cac-c2ae64525820.png)
