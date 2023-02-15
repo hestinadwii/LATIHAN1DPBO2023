@@ -18,7 +18,7 @@ Sekumpulan objek yang berisi atribut di atas akan ditampung oleh list.
 Telah disediakan fitur Menu agar bisa menggunakan program ini yang terdiri atas: Display, Insert, Search, Delete, Update, dan Exit.
 User hanya perlu menginput angka yang mempresentasikan masing-masing Menu.
 
-## QUERY CRUD
+## FEATURES
 #### Create / Insert
 Input data yang kemudian akan disimpan di list.
 ![Screenshot (52)](https://user-images.githubusercontent.com/100210178/219075823-223a2ab5-9b96-4ee4-9bf4-cc86be6f2979.png)
